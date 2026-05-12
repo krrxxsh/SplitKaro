@@ -27,16 +27,18 @@ We are actively working on turning SplitKaro into a fully autonomous expense man
 * **Icons:** Ionicons
 
 ## 🤝 App Screenshots
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7164a243-8bef-4645-8173-eefa2f35a9e3" width="180"/>
-  <img src="https://github.com/user-attachments/assets/3fea211e-788f-4558-9c09-ed191875d9a4" width="180"/>
-  <img src="https://github.com/user-attachments/assets/d09afd58-8d48-43b0-a861-f356f6e81bdd" width="180"/>
+  <img src="https://github.com/user-attachments/assets/7164a243-8bef-4645-8173-eefa2f35a9e3" width="170"/>
+  <img src="https://github.com/user-attachments/assets/3fea211e-788f-4558-9c09-ed191875d9a4" width="170"/>
+  <img src="https://github.com/user-attachments/assets/d09afd58-8d48-43b0-a861-f356f6e81bdd" width="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/117bc185-d307-47ea-b337-634acc38d335" width="180"/>
-  <img src="https://github.com/user-attachments/assets/806c175e-5288-492b-8cc9-f64c7c02f4a9" width="180"/>
-  <img src="https://github.com/user-attachments/assets/91e5bde6-f98e-4e14-9d6a-77fdbb255368" width="180"/>
+  <img src="https://github.com/user-attachments/assets/59808c7c-0673-4151-a08f-c9e383fa023e" width="170"/>
+  <img src="https://github.com/user-attachments/assets/117bc185-d307-47ea-b337-634acc38d335" width="170"/>
+  <img src="https://github.com/user-attachments/assets/806c175e-5288-492b-8cc9-f64c7c02f4a9" width="170"/>
+  <img src="https://github.com/user-attachments/assets/91e5bde6-f98e-4e14-9d6a-77fdbb255368" width="170"/>
 </p>
 
 
